@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "cli",
+    "libs/croissant_parser"
+]
